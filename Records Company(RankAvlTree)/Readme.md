@@ -79,7 +79,6 @@ Make sure your `mainWet2.cpp` and `utilesWet2.h` remain unchanged and are not su
 ├── GenericNode.h
 ├── README.md       <-- This file
 ├── pdf.dry         <-- Dry part in PDF format
-├── txt.submissions <-- Submission metadata
 ```
 
 ---
